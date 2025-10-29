@@ -1,7 +1,5 @@
 # AdaLLaVA: Learning to Inference Adaptively for Multimodal Large Language Models
 
-<!-- > **This is a draft version of our official code repo, will move to [here](https://github.com/zhuoyan-xu/AdaLLaVA) in the end.** -->
-
 *Learning to Inference Adaptively for Multimodal Large Language Models*
 
 [Zhuoyan Xu*](https://pages.cs.wisc.edu/~zxu444/home/), [Khoi Duc Nguyen*](https://khoiucd.github.io/), Preeti Mukherjee, [Saurabh Bagchi ](https://www.saurabhbagchi.us/), [Somali Chaterji](https://schaterji.io/), [Yingyu Liang](https://pages.cs.wisc.edu/~yliang/), [Yin Li](https://www.biostat.wisc.edu/~yli/)
