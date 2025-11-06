@@ -210,12 +210,14 @@ Training script with DeepSpeed ZeRO-3: [`train_script.sh`](./scripts/train_scrip
 
 If you find **AdaLLaVA** useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@article{zhuoyan2025adallava,
-          title={Learning to Inference Adaptively for Multimodal Large Language Models},
-          author={Xu, Zhuoyan and Nguyen, Khoi Duc and Mukherjee, Preeti and Bagchi, Saurab and Chaterji, Somali and Liang, Yingyu and Li, Yin},
-          journal={arXiv preprint arXiv:2503.10905},
-          year={2025}
-        }
+@InProceedings{xu2025adallava,
+        author    = {Xu, Zhuoyan and Nguyen, Khoi Duc and Mukherjee, Preeti and Bagchi, Saurabh and Chaterji, Somali and Liang, Yingyu and Li, Yin},
+        title     = {Learning to Inference Adaptively for Multimodal Large Language Models},
+        booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+        month     = {October},
+        year      = {2025},
+        pages     = {3552-3563}
+    }
 
 ```
 
